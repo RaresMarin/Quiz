@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See the LICENSE file for full de
 
 ---
 
-Thanks for using this site to make math easier and more fun. Let's make numbers awesome together!
+Thanks for using this site!
